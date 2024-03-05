@@ -60,7 +60,7 @@ def create_rfm_df(df):
     
     return rfm_df
 
-jam_df = pd.read_csv("hour.csv")
+jam_df = pd.read_csv("main_data.csv")
 
 st.header('Toko Sepeda Bahagia :sparkles:')
 
